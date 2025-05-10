@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Muzammil Tariq
 
-<!--
-**muzammiltariq95/muzammiltariq95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist & BI Developer | Passionate about building ML models, NLP tools, and insightful dashboards.
 
-Here are some ideas to get you started:
+📍 Based in Manchester, UK  
+🎓 MSc Data Science, University of Salford
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & Tools
+
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, R  
+**Data & BI Tools:** Power BI, DAX, Azure (ML Studio, Data Factory), BigQuery, Databricks, MLflow  
+**Automation:** Make.com, Pabbly Connect  
+**Other:** Git, NLP (spaCy, NLTK), LLMs, Streamlit
+
+---
+
+## Featured Projects
+
+🔹 [Steam Recommender System](https://github.com/muzammiltariq95/steam-recommender-system)  
+Built a PySpark-based collaborative filtering model with MLflow & Databricks to recommend games to 11,000+ users.
+
+🔹 [Income Classification Model](https://github.com/muzammiltariq95/income-classification)  
+Achieved 87.2% accuracy by predicting income levels using Azure ML Studio, SQL, and feature engineering.
+
+🔹 [Restaurant Insights Dashboards](https://github.com/muzammiltariq95/restaurant-powerbi-dashboard)  
+Power BI dashboards built for 23+ restaurants, delivering real-time insights on sales, inventory, and employee performance.
+
+---
+
+## Connect with Me
+
+📍 [LinkedIn](https://www.linkedin.com/in/muzammildoesai)  
+📧 muzammiltariq95@gmail.com  
