@@ -18,7 +18,7 @@ Data Scientist & BI Developer | Passionate about building ML models, NLP tools, 
 
 ## Featured Projects
 
-🔹 [Steam Recommender System](https://github.com/muzammiltariq95/steam-recommender-system)  
+🔹 [Steam Recommender System](https://github.com/muzammiltariq95/steam-recommender)  
 Built a PySpark-based collaborative filtering model with MLflow & Databricks to recommend games to 11,000+ users.
 
 🔹 [Income Classification Model](https://github.com/muzammiltariq95/income-classification)  
