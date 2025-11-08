@@ -11,7 +11,7 @@ Data Scientist & BI Developer | Passionate about building ML models, NLP tools, 
 
 **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, R  
 **Data & BI Tools:** Power BI, DAX, Azure (ML Studio, Data Factory), BigQuery, Databricks, MLflow  
-**Automation:** Make.com, Pabbly Connect  
+**Automation:** N8N  
 **Other:** Git, NLP (spaCy, NLTK), LLMs, Streamlit
 
 ---
