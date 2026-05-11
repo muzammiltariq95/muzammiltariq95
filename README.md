@@ -1,18 +1,16 @@
 # Hi, I'm Muzammil Tariq
 
-Data Scientist & BI Developer | Passionate about building ML models, NLP tools, and insightful dashboards.
-
-📍 Based in Manchester, UK  
-🎓 MSc Data Science, University of Salford
+AI Software Engineer | Passionate about building ML models, NLP tools, and AI Integrations
+📍 Based in United Kingdom
 
 ---
 
 ## Technologies & Tools
 
-**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, R  
-**Data & BI Tools:** Power BI, DAX, Azure (ML Studio, Data Factory), BigQuery, Databricks, MLflow  
+**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, R  
+**Data & BI Tools:** Azure (ML Studio, Data Factory), BigQuery, Databricks, MLflow  
 **Automation:** N8N  
-**Other:** Git, NLP (spaCy, NLTK), LLMs, Streamlit
+**Other:** Git, NLP, AI, LLMs
 
 ---
 
