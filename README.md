@@ -7,9 +7,9 @@ AI Software Engineer | Passionate about building ML models, NLP tools, and AI In
 
 ## Technologies & Tools
 
-**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, R  
-**Data & BI Tools:** Azure (ML Studio, Data Factory), BigQuery, Databricks, MLflow  
-**Automation:** N8N  
+**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, React/Node, C 
+**Data & BI Tools:** Azure (ML Studio, Data Factory), Databricks, MLflow  
+**Automation:** N8N, Make  
 **Other:** Git, NLP, AI, LLMs
 
 ---
@@ -30,4 +30,4 @@ Power BI dashboards built for 23+ restaurants, delivering real-time insights on 
 ## Connect with Me
 
 📍 [LinkedIn](https://www.linkedin.com/in/muzammildoesai)  
-📧 muzammiltariq95@gmail.com  
+📧 muzammiltariq@hotmail.com  
