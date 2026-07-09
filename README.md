@@ -7,7 +7,7 @@ AI Software Engineer | Passionate about building ML models, NLP tools, and AI In
 
 ## Technologies & Tools
 
-**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, React/Node, C 
+**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, React/Node, C.
 **Data & BI Tools:** Azure (ML Studio, Data Factory), Databricks, MLflow  
 **Automation:** N8N, Make  
 **Other:** Git, NLP, AI, LLMs
