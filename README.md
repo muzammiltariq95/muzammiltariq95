@@ -1,7 +1,7 @@
 # Hi, I'm Muzammil
 
 **ML engineer** building recommendation systems, classification models, and LLM-powered automation.
-📍 United Kingdom · 🔎 Open to AI/ML engineering roles
+📍 United Kingdom · Open to AI/ML engineering roles
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Featured projects
+## Featured Work
 
 **[Steam Recommender System](https://github.com/muzammiltariq95/Steam-recommender)**
 Collaborative-filtering recommender built with PySpark ALS, with experiments tracked in MLflow on Databricks. Trained on 200k+ user-game interactions. `PySpark · MLflow · Databricks`
