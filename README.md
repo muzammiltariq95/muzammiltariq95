@@ -1,33 +1,36 @@
-# Hi, I'm Muzammil Tariq
+# Hi, I'm Muzammil
 
-AI Software Engineer | Passionate about building ML models, NLP tools, and AI Integrations
-📍 Based in United Kingdom
-
----
-
-## Technologies & Tools
-
-**Languages & Libraries:** Python (ML, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL, React/Node, C.
-**Data & BI Tools:** Azure (ML Studio, Data Factory), Databricks, MLflow  
-**Automation:** N8N, Make  
-**Other:** Git, NLP, AI, LLMs
+**ML engineer** building recommendation systems, classification models, and LLM-powered automation.
+📍 United Kingdom · 🔎 Open to AI/ML engineering roles
 
 ---
 
-## Featured Projects
+## What I work with
 
-🔹 [Steam Recommender System](https://github.com/muzammiltariq95/steam-recommender)  
-Built a PySpark-based collaborative filtering model with MLflow & Databricks to recommend games to 11,000+ users.
-
-🔹 [Income Classification Model](https://github.com/muzammiltariq95/income-classification)  
-Achieved 87.2% accuracy by predicting income levels using Azure ML Studio, SQL, and feature engineering.
-
-🔹 [Restaurant Insights Dashboards](https://github.com/muzammiltariq95/restaurant-powerbi-dashboard)  
-Power BI dashboards built for 23+ restaurants, delivering real-time insights on sales, inventory, and employee performance.
+- **Languages:** Python, SQL
+- **ML & data:** scikit-learn, PyTorch, TensorFlow, PySpark, Pandas, NumPy
+- **Platforms & MLOps:** Azure ML Studio, Azure Data Factory, Databricks, MLflow
+- **LLMs & automation:** n8n, Make, [add: LLM APIs / frameworks you've actually used]
+- **Also:** Git, Power BI, [React/Node, C: keep only if you want these seen]
 
 ---
 
-## Connect with Me
+## Featured projects
 
-📍 [LinkedIn](https://www.linkedin.com/in/muzammildoesai)  
-📧 muzammiltariq@hotmail.com  
+**[Steam Recommender System](https://github.com/muzammiltariq95/Steam-recommender)**
+Collaborative-filtering recommender built with PySpark ALS, with experiments tracked in MLflow on Databricks. Trained on 200k+ user-game interactions. `PySpark · MLflow · Databricks`
+
+**[Income Classification Model](https://github.com/muzammiltariq95/Income-Classification)**
+Predicts whether income exceeds $50K using boosted decision trees and neural networks, reaching 87.2% accuracy. `Azure ML Studio · SQL · scikit-learn`
+
+**[Restaurant Insights Dashboards](https://github.com/muzammiltariq95/restaurant-powerbi-dashboard)**
+Power BI dashboards for 23+ restaurants covering sales, inventory, and staff performance. `Power BI`
+<!-- Verify this link works. -->
+
+<!-- Add a 4th project here: an LLM/NLP build (e.g. RAG app or n8n automation) with a short write-up. -->
+
+---
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/muzammildoesai) | [Muzammiltariq@hotmail.com](mailto:muzammiltariq@hotmail.com)
