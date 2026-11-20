@@ -7,11 +7,11 @@
 
 ## What I work with
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Typescript
 - **ML & data:** scikit-learn, PyTorch, TensorFlow, PySpark, Pandas, NumPy
-- **Platforms & MLOps:** Azure ML Studio, Azure Data Factory, Databricks, MLflow
-- **LLMs & automation:** n8n, Make, [add: LLM APIs / frameworks you've actually used]
-- **Also:** Git, Power BI, [React/Node, C: keep only if you want these seen]
+- **Platforms & MLOps:** Azure ML Studio, Azure Data Factory, Databricks, MLflow, AWS
+- **LLMs & automation:** n8n, Make, LLM APIs, transcription models,
+- **Also:** Git, Power BI, React/Node
 
 ---
 
@@ -23,11 +23,6 @@ Collaborative-filtering recommender built with PySpark ALS, with experiments tra
 **[Income Classification Model](https://github.com/muzammiltariq95/Income-Classification)**
 Predicts whether income exceeds $50K using boosted decision trees and neural networks, reaching 87.2% accuracy. `Azure ML Studio · SQL · scikit-learn`
 
-**[Restaurant Insights Dashboards](https://github.com/muzammiltariq95/restaurant-powerbi-dashboard)**
-Power BI dashboards for 23+ restaurants covering sales, inventory, and staff performance. `Power BI`
-<!-- Verify this link works. -->
-
-<!-- Add a 4th project here: an LLM/NLP build (e.g. RAG app or n8n automation) with a short write-up. -->
 
 ---
 
